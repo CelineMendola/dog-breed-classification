@@ -8,4 +8,4 @@ The file P6_01_notebook.py makes some analysis on the database, creates a main I
 
 We use two approaches : The first creating CNNs from scratch, the second using pre-trained neural networks : VGG16 and Resnet50.  
 
-We then create a prediction function with the model "my_model.h5" created with Resnet50.
+We then create a prediction function "P6_02_prediction_breed_function.py" with the model "my_model.h5" created with Resnet50.
